@@ -12,7 +12,7 @@
 
 
 ### ML
-#### Feature selection
+-  Feature selection
 [Implementing Feature Selection Methods for Machine learning](https://ranasinghiitkgp.medium.com/implementing-feature-selection-methods-for-machine-learning-bfa2e4b4e02)
 #### Bayes
 [When Bayes, Ockham, and Shannon come together to define machine learning](https://towardsdatascience.com/when-bayes-ockham-and-shannon-come-together-to-define-machine-learning-96422729a1ad)
