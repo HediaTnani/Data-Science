@@ -12,6 +12,8 @@
 
 
 ### ML
+-  ML step-by-step
+[Machine Learning: Step-By-Step](https://towardsdatascience.com/machine-learning-step-by-step-6fbde95c455a)
 -  Feature selection
 [Implementing Feature Selection Methods for Machine learning](https://ranasinghiitkgp.medium.com/implementing-feature-selection-methods-for-machine-learning-bfa2e4b4e02)
 -  Bayes
