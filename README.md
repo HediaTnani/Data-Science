@@ -3,8 +3,8 @@
 ## Interesting DS blogs
 
 ### DS path
-
-
+### Github actions
+[Using Github Actions as a job scheduler for R scripts](https://sabeeh.medium.com/using-github-actions-as-a-job-scheduler-for-r-scripts-7b92539372f4)
 
 ### APIs
 [Hosting an R Plumber API using Azure App Service](https://veerlevanleemput.medium.com/hosting-a-r-plumber-api-using-azure-app-service-4e78936787cf)
