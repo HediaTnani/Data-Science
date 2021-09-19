@@ -34,4 +34,5 @@
 
 # Bioinformatics
 
-## [Dash Apps that Analyze RNA Sequencing Data for Drug & Vaccine Development](https://medium.com/plotly/dash-apps-that-analyze-rna-sequencing-data-for-drug-vaccine-development-1a0ea9763d5)
+## RNAseq
+[Dash Apps that Analyze RNA Sequencing Data for Drug & Vaccine Development](https://medium.com/plotly/dash-apps-that-analyze-rna-sequencing-data-for-drug-vaccine-development-1a0ea9763d5)
