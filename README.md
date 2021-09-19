@@ -20,6 +20,8 @@
 
 [Modelling with Tidymodels and Parsnip](https://towardsdatascience.com/modelling-with-tidymodels-and-parsnip-bae2c01c131c)
 
+[ML for beginners](https://github.com/microsoft/ML-For-Beginners)
+
 ### MLOPS
 [A Practical Guide to MLOps in AWS Sagemaker](https://towardsdatascience.com/a-practical-guide-to-mlops-in-aws-sagemaker-part-i-1d28003f565)
 
