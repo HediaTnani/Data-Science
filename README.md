@@ -31,3 +31,6 @@
 
 ### Jupyter notebook
 [How to Connect to JupyterLab Remotely](https://towardsdatascience.com/how-to-connect-to-jupyterlab-remotely-9180b57c45bb)
+
+### Kaggle
+[My Journey to Kaggle Master at the Age of 14](https://towardsdatascience.com/my-journey-to-kaggle-master-at-the-age-of-14-e2c42b19c6f7)
