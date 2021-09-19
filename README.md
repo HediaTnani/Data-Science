@@ -1,15 +1,12 @@
 # Data-Science
 
-## Interesting DS blogs
-
-### DS path
-### Github actions
+## Github actions
 [Using Github Actions as a job scheduler for R scripts](https://sabeeh.medium.com/using-github-actions-as-a-job-scheduler-for-r-scripts-7b92539372f4)
 
-### APIs
+## APIs
 [Hosting an R Plumber API using Azure App Service](https://veerlevanleemput.medium.com/hosting-a-r-plumber-api-using-azure-app-service-4e78936787cf)
 
-### ML
+## ML
 [Machine Learning: Step-By-Step](https://towardsdatascience.com/machine-learning-step-by-step-6fbde95c455a)
 
 [Implementing Feature Selection Methods for Machine learning](https://ranasinghiitkgp.medium.com/implementing-feature-selection-methods-for-machine-learning-bfa2e4b4e02)
@@ -22,14 +19,19 @@
 
 [Microsoft : ML for beginners](https://github.com/microsoft/ML-For-Beginners)
 
-### MLOPS
+## MLOPS
 [A Practical Guide to MLOps in AWS Sagemaker](https://towardsdatascience.com/a-practical-guide-to-mlops-in-aws-sagemaker-part-i-1d28003f565)
 
-### Kubernetes
+## Kubernetes
 [Deploy Dash with Helm on Kubernetes with AWS EKS](https://www.dabbleofdevops.com/blog/deploy-dash-with-helm-on-kubernetes-with-aws-eks)
 
-### Jupyter notebook
+## Jupyter notebook
 [How to Connect to JupyterLab Remotely](https://towardsdatascience.com/how-to-connect-to-jupyterlab-remotely-9180b57c45bb)
 
-### Kaggle
+## Kaggle
 [My Journey to Kaggle Master at the Age of 14](https://towardsdatascience.com/my-journey-to-kaggle-master-at-the-age-of-14-e2c42b19c6f7)
+
+
+# Bioinformatics
+
+## [Dash Apps that Analyze RNA Sequencing Data for Drug & Vaccine Development](https://medium.com/plotly/dash-apps-that-analyze-rna-sequencing-data-for-drug-vaccine-development-1a0ea9763d5)
