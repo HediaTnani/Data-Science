@@ -40,9 +40,9 @@
 [Dash Apps that Analyze RNA Sequencing Data for Drug & Vaccine Development](https://medium.com/plotly/dash-apps-that-analyze-rna-sequencing-data-for-drug-vaccine-development-1a0ea9763d5)
 
 ## Pipelines
-[Nextflow part one](https://www.youtube.com/watch?v=FNv0b3PeHSw)
+[ISCB Nextflow part one](https://www.youtube.com/watch?v=FNv0b3PeHSw)
 
-[Nextflow part two](https://www.youtube.com/watch?v=i9pzXcO6w-4)
+[ISCB Nextflow part two](https://www.youtube.com/watch?v=i9pzXcO6w-4)
 
 ## Pathway analysis
-[Reproducible omics data](https://www.youtube.com/watch?v=uMDIa8Mo6aw)   [Github](https://github.com/BIGCAT-COVID19/ISMB2021-workshop)
+[ISCB Reproducible omics data](https://www.youtube.com/watch?v=uMDIa8Mo6aw)   [Github](https://github.com/BIGCAT-COVID19/ISMB2021-workshop)
