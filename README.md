@@ -43,3 +43,6 @@
 [Nextflow part one](https://www.youtube.com/watch?v=FNv0b3PeHSw)
 
 [Nextflow part two](https://www.youtube.com/watch?v=i9pzXcO6w-4)
+
+## Pathway analysis
+[Reproducible omics data](https://www.youtube.com/watch?v=uMDIa8Mo6aw)   [Github](https://github.com/BIGCAT-COVID19/ISMB2021-workshop)
