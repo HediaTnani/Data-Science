@@ -21,6 +21,8 @@
 
 [Microsoft : ML for beginners](https://github.com/microsoft/ML-For-Beginners)
 
+[Jon Krohn ML](https://www.jonkrohn.com/)
+
 ## MLOPS
 [A Practical Guide to MLOps in AWS Sagemaker](https://towardsdatascience.com/a-practical-guide-to-mlops-in-aws-sagemaker-part-i-1d28003f565)
 
