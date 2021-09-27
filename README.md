@@ -23,6 +23,10 @@
 
 [Jon Krohn ML](https://www.jonkrohn.com/)
 
+[Explain Any Machine Learning Model in Python](https://towardsdatascience.com/shap-explain-any-machine-learning-model-in-python-24207127cad7)
+
+[Dimensionality reduction for machine learning](https://towardsdatascience.com/dimensionality-reduction-for-machine-learning-ef20d8a108d)
+
 ## MLOPS
 [A Practical Guide to MLOps in AWS Sagemaker](https://towardsdatascience.com/a-practical-guide-to-mlops-in-aws-sagemaker-part-i-1d28003f565)
 
