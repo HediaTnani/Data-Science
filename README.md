@@ -6,6 +6,9 @@
 ## APIs
 [Hosting an R Plumber API using Azure App Service](https://veerlevanleemput.medium.com/hosting-a-r-plumber-api-using-azure-app-service-4e78936787cf)
 
+## DL
+[TF DL](https://dev.mrdbourke.com/tensorflow-deep-learning/)
+
 ## ML
 [Making friends with ML](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 
