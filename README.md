@@ -43,6 +43,8 @@
 ## Kaggle
 [My Journey to Kaggle Master at the Age of 14](https://towardsdatascience.com/my-journey-to-kaggle-master-at-the-age-of-14-e2c42b19c6f7)
 
+## Pandas
+[Process ~10M Row Datasets in Milliseconds In This Comprehensive Pandas Speed Guide](https://towardsdatascience.com/process-10m-row-datasets-in-milliseconds-in-this-comprehensive-pandas-speed-guide-5a3125cbb78)
 
 # Bioinformatics
 
