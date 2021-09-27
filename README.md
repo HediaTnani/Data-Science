@@ -19,6 +19,8 @@
 
 [Modelling with Tidymodels and Parsnip](https://towardsdatascience.com/modelling-with-tidymodels-and-parsnip-bae2c01c131c)
 
+[Tidymodels](https://rpubs.com/marcelocostamagna/730911)
+
 [Microsoft : ML for beginners](https://github.com/microsoft/ML-For-Beginners)
 
 [Jon Krohn ML](https://www.jonkrohn.com/)
