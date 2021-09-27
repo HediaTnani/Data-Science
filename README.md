@@ -8,6 +8,8 @@
 ## APIs
 [Hosting an R Plumber API using Azure App Service](https://veerlevanleemput.medium.com/hosting-a-r-plumber-api-using-azure-app-service-4e78936787cf)
 
+[A Layman’s Guide for Data Scientists to create APIs in minutes](https://towardsdatascience.com/a-layman-guide-for-data-scientists-to-create-apis-in-minutes-31e6f451cd2f)
+
 ## DL
 [TF DL](https://dev.mrdbourke.com/tensorflow-deep-learning/)
 
