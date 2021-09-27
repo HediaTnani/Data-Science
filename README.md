@@ -56,12 +56,16 @@
 
 [The illustrated loc and iloc affair](https://towardsdatascience.com/the-illustrated-loc-and-iloc-affair-75b3f378aaf0)
 
+## Julia
+
+[Building Your First Classification Pipeline In Julia](https://towardsdatascience.com/building-your-first-classification-pipeline-in-julia-47e661c097d7)
+
 # Bioinformatics
 
 ## RNAseq
 [Dash Apps that Analyze RNA Sequencing Data for Drug & Vaccine Development](https://medium.com/plotly/dash-apps-that-analyze-rna-sequencing-data-for-drug-vaccine-development-1a0ea9763d5)
 
-## Pipelines
+## Pipelines in Bioinformatics
 [ISCB Nextflow part one](https://www.youtube.com/watch?v=FNv0b3PeHSw)
 
 [ISCB Nextflow part two](https://www.youtube.com/watch?v=i9pzXcO6w-4)
