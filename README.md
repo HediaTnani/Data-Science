@@ -31,6 +31,8 @@
 
 [Tidymodels](https://rpubs.com/marcelocostamagna/730911)
 
+[pca with tidymodels in R](https://cmdlinetips.com/2020/06/pca-with-tidymodels-in-r/)
+
 [AMLDAfrica tidymodels](https://www.youtube.com/watch?v=KjCfM9oWfng)
 
 [Microsoft : ML for beginners](https://github.com/microsoft/ML-For-Beginners)
