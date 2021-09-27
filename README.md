@@ -28,6 +28,8 @@
 
 [Tidymodels](https://rpubs.com/marcelocostamagna/730911)
 
+[AMLDAfrica tidymodels](https://www.youtube.com/watch?v=KjCfM9oWfng)
+
 [Microsoft : ML for beginners](https://github.com/microsoft/ML-For-Beginners)
 
 [Jon Krohn ML](https://www.jonkrohn.com/)
