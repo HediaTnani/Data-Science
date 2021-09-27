@@ -2,6 +2,9 @@
 ## Python
 [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 
+## R
+[introduction R](https://mgimond.github.io/ES218/Week01.html)
+
 ## Github actions
 [Using Github Actions as a job scheduler for R scripts](https://sabeeh.medium.com/using-github-actions-as-a-job-scheduler-for-r-scripts-7b92539372f4)
 
