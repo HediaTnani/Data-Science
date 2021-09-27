@@ -75,5 +75,10 @@
 
 [ISCB Nextflow part two](https://www.youtube.com/watch?v=i9pzXcO6w-4)
 
+[GCC2021 Science Training Track](https://galaxyproject.org/events/gcc2021/training/)
+
 ## Pathway analysis
 [ISCB Reproducible omics data](https://www.youtube.com/watch?v=uMDIa8Mo6aw)   [Github](https://github.com/BIGCAT-COVID19/ISMB2021-workshop)
+
+## Human Pangenome
+[Human Pangenome](https://github.com/human-pangenomics/HPP_Year1_Data_Freeze_v1.0)
