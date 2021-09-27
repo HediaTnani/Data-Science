@@ -29,6 +29,8 @@
 
 [Machine learning complete](https://nbviewer.jupyter.org/github/Nyandwi/machine_learning_complete/tree/main/)
 
+[Feature scaling](https://towardsdatascience.com/all-about-feature-scaling-bcc0ad75cb35)
+
 ## MLOPS
 [A Practical Guide to MLOps in AWS Sagemaker](https://towardsdatascience.com/a-practical-guide-to-mlops-in-aws-sagemaker-part-i-1d28003f565)
 
