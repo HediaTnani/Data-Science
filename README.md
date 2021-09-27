@@ -33,6 +33,12 @@
 
 [Feature scaling](https://towardsdatascience.com/all-about-feature-scaling-bcc0ad75cb35)
 
+[Decision Tree — Implemented from scratch](https://towardsdatascience.com/decision-tree-implemented-from-scratch-f11f7ca6aa0)
+
+## Pipelines
+
+[How to Schedule Python Scripts With Cron](https://towardsdatascience.com/how-to-schedule-python-scripts-with-cron-the-only-guide-youll-ever-need-deea2df63b4e)
+
 ## MLOPS
 [A Practical Guide to MLOps in AWS Sagemaker](https://towardsdatascience.com/a-practical-guide-to-mlops-in-aws-sagemaker-part-i-1d28003f565)
 
