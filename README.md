@@ -54,6 +54,8 @@
 ## Pandas
 [Process ~10M Row Datasets in Milliseconds In This Comprehensive Pandas Speed Guide](https://towardsdatascience.com/process-10m-row-datasets-in-milliseconds-in-this-comprehensive-pandas-speed-guide-5a3125cbb78)
 
+[The illustrated loc and iloc affair](https://towardsdatascience.com/the-illustrated-loc-and-iloc-affair-75b3f378aaf0)
+
 # Bioinformatics
 
 ## RNAseq
