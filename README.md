@@ -5,6 +5,8 @@
 ## R
 [introduction R](https://mgimond.github.io/ES218/Week01.html)
 
+[package development](https://fontikar.github.io/RladiesSYD_DIYRpkg/)    [Github](https://github.com/fontikar/RladiesSYD_DIYRpkg)    [Youtube](https://www.youtube.com/watch?v=4-9jX5F_l8g)
+
 ## Github actions
 [Using Github Actions as a job scheduler for R scripts](https://sabeeh.medium.com/using-github-actions-as-a-job-scheduler-for-r-scripts-7b92539372f4)
 
