@@ -33,6 +33,8 @@
 
 [pca with tidymodels in R](https://cmdlinetips.com/2020/06/pca-with-tidymodels-in-r/)
 
+[pca example using prcomp in R](https://cmdlinetips.com/2019/04/introduction-to-pca-with-r-using-prcomp/)
+
 [AMLDAfrica tidymodels](https://www.youtube.com/watch?v=KjCfM9oWfng)
 
 [Microsoft : ML for beginners](https://github.com/microsoft/ML-For-Beginners)
