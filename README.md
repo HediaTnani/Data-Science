@@ -35,7 +35,7 @@
 
 [pca example using prcomp in R](https://cmdlinetips.com/2019/04/introduction-to-pca-with-r-using-prcomp/)
 
-[AMLDAfrica tidymodels](https://www.youtube.com/watch?v=KjCfM9oWfng)
+[AMLDAfrica tidymodels](https://www.youtube.com/watch?v=KjCfM9oWfng)        [Event link](https://appliedmldays.org/events/amld-africa-2021/workshops/tidy-modelling-in-r)
 
 [Microsoft : ML for beginners](https://github.com/microsoft/ML-For-Beginners)
 
