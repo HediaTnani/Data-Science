@@ -17,6 +17,9 @@
 [TF DL](https://dev.mrdbourke.com/tensorflow-deep-learning/)
 
 ## ML
+
+[Google Crash course](https://developers.google.com/machine-learning/crash-course/ml-intro)
+
 [Making friends with ML](https://www.youtube.com/playlist?list=PLRKtJ4IpxJpDxl0NTvNYQWKCYzHNuy2xG)
 
 [Machine Learning: Step-By-Step](https://towardsdatascience.com/machine-learning-step-by-step-6fbde95c455a)
