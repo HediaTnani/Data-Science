@@ -42,6 +42,8 @@
 
 [AMLDAfrica tidymodels](https://www.youtube.com/watch?v=KjCfM9oWfng)        [Event link](https://appliedmldays.org/events/amld-africa-2021/workshops/tidy-modelling-in-r)
 
+[Caret and Tidymodels](https://ryjohnson09.netlify.app/post/caret-and-tidymodels/)
+
 [Microsoft : ML for beginners](https://github.com/microsoft/ML-For-Beginners)
 
 [Jon Krohn ML](https://www.jonkrohn.com/)
