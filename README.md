@@ -44,6 +44,8 @@
 
 [Caret and Tidymodels](https://ryjohnson09.netlify.app/post/caret-and-tidymodels/)
 
+[Classification with Tidymodels, Workflows and Recipes](https://www.kirenz.com/post/2021-02-17-r-classification-tidymodels/)
+
 [Microsoft : ML for beginners](https://github.com/microsoft/ML-For-Beginners)
 
 [Jon Krohn ML](https://www.jonkrohn.com/)
