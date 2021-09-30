@@ -15,6 +15,8 @@
 
 [A Layman’s Guide for Data Scientists to create APIs in minutes](https://towardsdatascience.com/a-layman-guide-for-data-scientists-to-create-apis-in-minutes-31e6f451cd2f)
 
+[The Power of Parameterized Reports With Plumber](https://www.datalorax.com/post/power-parameterized-reports-plumber/)
+
 ## DL
 [TF DL](https://dev.mrdbourke.com/tensorflow-deep-learning/)
 
