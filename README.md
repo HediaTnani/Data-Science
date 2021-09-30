@@ -85,6 +85,8 @@
 
 [The illustrated loc and iloc affair](https://towardsdatascience.com/the-illustrated-loc-and-iloc-affair-75b3f378aaf0)
 
+[Python Pandas Tutorial: A Complete Introduction for Beginners](https://www.learndatasci.com/tutorials/python-pandas-tutorial-complete-introduction-for-beginners/)
+
 ## Julia
 
 [Building Your First Classification Pipeline In Julia](https://towardsdatascience.com/building-your-first-classification-pipeline-in-julia-47e661c097d7)
