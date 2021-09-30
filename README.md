@@ -96,6 +96,9 @@
 ## RNAseq
 [Dash Apps that Analyze RNA Sequencing Data for Drug & Vaccine Development](https://medium.com/plotly/dash-apps-that-analyze-rna-sequencing-data-for-drug-vaccine-development-1a0ea9763d5)
 
+[Analysis of gene expression timecourse data using maSigPro](https://nsaunders.wordpress.com/2015/05/29/analysis-of-gene-expression-timecourse-data-using-masigpro/)
+
+
 ## Pipelines in Bioinformatics
 [ISCB Nextflow part one](https://www.youtube.com/watch?v=FNv0b3PeHSw)
 
