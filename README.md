@@ -21,6 +21,7 @@
 [TF DL](https://dev.mrdbourke.com/tensorflow-deep-learning/)
 
 ## ML
+[A Gentle Introduction to Matrix Factorization for Machine Learning](https://machinelearningmastery.com/introduction-to-matrix-decompositions-for-machine-learning/)
 
 [Google Crash course](https://developers.google.com/machine-learning/crash-course/ml-intro)
 
