@@ -92,6 +92,9 @@
 
 [Building Your First Classification Pipeline In Julia](https://towardsdatascience.com/building-your-first-classification-pipeline-in-julia-47e661c097d7)
 
+## Docker 
+[Dockerize Your Dash App](https://towardsdatascience.com/dockerize-your-dash-app-1e155dd1cea3)
+
 # Bioinformatics
 
 ## RNAseq
