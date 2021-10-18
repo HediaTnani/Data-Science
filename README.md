@@ -82,6 +82,8 @@
 
 [From Jupyter Notebook to Deployment — A Straightforward Example](https://towardsdatascience.com/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437)
 
+[From Jupyter Notebook To Scripts](https://towardsdatascience.com/from-jupyter-notebook-to-sc-582978d3c0c)
+
 ## Kaggle
 [My Journey to Kaggle Master at the Age of 14](https://towardsdatascience.com/my-journey-to-kaggle-master-at-the-age-of-14-e2c42b19c6f7)
 
