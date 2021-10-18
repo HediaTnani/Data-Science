@@ -80,6 +80,8 @@
 
 [parametrization jupyter notebook](https://jupyter-tutorial.readthedocs.io/en/latest/refactoring/parameterise/index.html)
 
+[From Jupyter Notebook to Deployment — A Straightforward Example](https://towardsdatascience.com/from-jupyter-notebook-to-deployment-a-straightforward-example-1838c203a437)
+
 ## Kaggle
 [My Journey to Kaggle Master at the Age of 14](https://towardsdatascience.com/my-journey-to-kaggle-master-at-the-age-of-14-e2c42b19c6f7)
 
