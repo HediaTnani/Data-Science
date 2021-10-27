@@ -2,7 +2,7 @@
 ## Python
 [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 
-[Getting started with Python environments (using Conda)] (https://towardsdatascience.com/getting-started-with-python-environments-using-conda-32e9f2779307)
+[Getting started with Python environments (using Conda)](https://towardsdatascience.com/getting-started-with-python-environments-using-conda-32e9f2779307)
 
 
 ## R
