@@ -10,10 +10,14 @@
 
 [package development](https://fontikar.github.io/RladiesSYD_DIYRpkg/)    [Github](https://github.com/fontikar/RladiesSYD_DIYRpkg)    [Youtube](https://www.youtube.com/watch?v=4-9jX5F_l8g)
 
+[Building R packages with devtools and usethis | RStudio](https://www.youtube.com/watch?v=EpTkT6Rkgbs)
+
 ## Github actions
 [Using Github Actions as a job scheduler for R scripts](https://sabeeh.medium.com/using-github-actions-as-a-job-scheduler-for-r-scripts-7b92539372f4)
 
 [Launch an R script using github actions](https://www.rforseo.com/ressources/launch-an-r-script-using-github-actions)
+
+[Deploying ML models in production with R + Github Action](https://www.youtube.com/watch?v=nhTgIyN7NC8&t=2s)
 
 ## APIs
 [Hosting an R Plumber API using Azure App Service](https://veerlevanleemput.medium.com/hosting-a-r-plumber-api-using-azure-app-service-4e78936787cf)
