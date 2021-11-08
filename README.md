@@ -119,6 +119,10 @@
 
 [GCC2021 Science Training Track](https://galaxyproject.org/events/gcc2021/training/)
 
+[nextflow tutorial](https://yetulaxman.github.io/Biocontainer/tutorials/nextflow_tutorial.html)
+
+[nextflow carpenteries](https://carpentries-incubator.github.io/workflows-nextflow/)
+
 ## Pathway analysis
 [ISCB Reproducible omics data](https://www.youtube.com/watch?v=uMDIa8Mo6aw)   [Github](https://github.com/BIGCAT-COVID19/ISMB2021-workshop)
 
