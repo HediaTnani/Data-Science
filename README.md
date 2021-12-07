@@ -12,6 +12,8 @@
 
 [Building R packages with devtools and usethis | RStudio](https://www.youtube.com/watch?v=EpTkT6Rkgbs)
 
+[Parallel programming](https://berkeley-scf.github.io/tutorial-parallelization/parallel-R)
+
 ## Github actions
 [Using Github Actions as a job scheduler for R scripts](https://sabeeh.medium.com/using-github-actions-as-a-job-scheduler-for-r-scripts-7b92539372f4)
 
