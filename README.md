@@ -115,6 +115,7 @@
 
 [Analysis of gene expression timecourse data using maSigPro](https://nsaunders.wordpress.com/2015/05/29/analysis-of-gene-expression-timecourse-data-using-masigpro/)
 
+[Differential Expression - RNA-seq](https://alexslemonade.github.io/refinebio-examples/03-rnaseq/00-intro-to-rnaseq.html)
 
 ## Pipelines in Bioinformatics
 [ISCB Nextflow part one](https://www.youtube.com/watch?v=FNv0b3PeHSw)
