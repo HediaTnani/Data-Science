@@ -12,7 +12,7 @@
 
 [Building R packages with devtools and usethis | RStudio](https://www.youtube.com/watch?v=EpTkT6Rkgbs)
 
-[Package Development Workshop R-Ladies NYK] [DAY1](https://github.com/jtr13/pkgdev/blob/main/Day1_lab.md)   [Day2](https://github.com/jtr13/pkgdev/blob/main/Day2_lab.md)
+[Package Development Workshop R-Ladies NYK](https://github.com/jtr13/pkgdev) [DAY1](https://github.com/jtr13/pkgdev/blob/main/Day1_lab.md)   [Day2](https://github.com/jtr13/pkgdev/blob/main/Day2_lab.md)
 
 [Parallel programming](https://berkeley-scf.github.io/tutorial-parallelization/parallel-R)
 
