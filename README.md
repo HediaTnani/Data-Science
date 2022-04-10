@@ -125,6 +125,7 @@ https://m.blog.naver.com/jinp7/221848536949
 
 https://combine-australia.github.io/RNAseq-R/06-rnaseq-day1.html
 
+
 ## Pipelines in Bioinformatics
 [ISCB Nextflow part one](https://www.youtube.com/watch?v=FNv0b3PeHSw)
 
