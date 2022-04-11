@@ -589,3 +589,6 @@ http://www.nathalievialaneix.eu/teaching/rnaseq.html
 
 ## conda
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+## pheatmaps
+https://towardsdatascience.com/pheatmap-draws-pretty-heatmaps-483dab9a3cc
