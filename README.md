@@ -147,33 +147,61 @@ https://combine-australia.github.io/RNAseq-R/06-rnaseq-day1.html
 
 ## Single cell
 https://erilu.github.io/single-cell-rnaseq-analysis/
+
 https://nbisweden.github.io/workshop-scRNAseq/exercises.html
+
 https://hbctraining.github.io/scRNA-seq/lessons/03_SC_quality_control-setup.html
+
 https://smorabit.github.io/tutorials/7_single-cell-essentials/
+
 https://ucdavis-bioinformatics-training.github.io/2019-single-cell-RNA-sequencing-Workshop-UCD_UCSF/data_reduction/Expression_Matrix.html
+
 https://broadinstitute.github.io/2020_scWorkshop/index.html#course-overview
+
 https://swaruplab.bio.uci.edu/tutorial/snRNA-essentials/snRNA-essentials.html
+
 https://satijalab.org/seurat/archive/v3.1/interaction_vignette.html
+
 https://learn.gencore.bio.nyu.edu/single-cell-rnaseq/
+
 [sc multiomics map](https://bookdown.org/ytliu13207/SingleCellMultiOmicsDataAnalysis/seurat-pre-process.html)
+
 https://github.com/satijalab/seurat/issues/432
+
 https://ucdavis-bioinformatics-training.github.io/2017_2018-single-cell-RNA-sequencing-Workshop-UCD_UCB_UCSF/day2/scRNA_Workshop-PART1.html
+
 https://ucdavis-bioinformatics-training.github.io/2020-Advanced_Single_Cell_RNA_Seq/data_analysis/Mapping_Comparison_fixed
+
 https://swaruplab.bio.uci.edu/tutorial/integration/integration_tutorial.html#
+
 https://www.singlecellcourse.org/basic-quality-control-qc-and-exploration-of-scrna-seq-datasets.html
+
 https://satijalab.org/signac/articles/snareseq.html
+
 https://satijalab.org/signac/articles/pbmc_multiomic.html
+
 https://www.bioinformatics.babraham.ac.uk/training/10XRNASeq/seurat_workflow.html
+
 https://broadinstitute.github.io/KrumlovSingleCellWorkshop2020/data-wrangling-scrnaseq-1.html#filtering-low-quality-cells
+
 https://www.stephaniehicks.com/2018-bioinfosummer-scrnaseq/cleaning-the-expression-matrix.html
+
 https://data.bits.vib.be/pub/trainingen/NGSIntro/seurat3_TUTORIAL.html
+
 https://support.parsebiosciences.com/hc/en-us/articles/360053078092-Seurat-Tutorial-65k-PBMCs
+
 https://www.biostars.org/p/9492223/#9492285
+
 http://andrewjohnhill.com/images/posts/2019-5-6-dimensionality-reduction-for-scatac-data/analysis.html
+
 https://satijalab.org/signac/articles/merging.html
+
 https://dburkhardt.github.io/tutorial/preprocessing/
+
 https://github.com/Dragonmasterx87/Merging-multiple-Seurat-Objects/blob/d58ca93118ae1b46c7b227f6ad7ba8b46fb04c4a/Merging%20%3E2%20Seurats.R
+
 https://rpubs.com/Ronlee/SeuratPractice
+
 https://github.com/satijalab/seurat/issues/4955
 
 ## Deep learning
