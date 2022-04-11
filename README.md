@@ -592,3 +592,6 @@ https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environme
 
 ## pheatmaps
 https://towardsdatascience.com/pheatmap-draws-pretty-heatmaps-483dab9a3cc
+
+## python
+https://amfdrey.github.io/2022-04-04-NiTheCS-Online/
