@@ -598,3 +598,6 @@ https://amfdrey.github.io/2022-04-04-NiTheCS-Online/
 
 ## jupyter notebook remote
 https://medium.com/biosyntax/remote-connection-to-jupyter-notebook-f3ab841d9fed
+
+## automating makecontrasts
+https://support.bioconductor.org/p/12951/
