@@ -185,6 +185,10 @@ https://programmerclick.com/article/98952061357/
 
 https://gtk-teaching.github.io/Microarrays-R/index.html
 
+https://github.com/jdblischak/dc-bioc-limma/blob/master/code/populus.R
+
+https://github.com/MarioniLab/MNN2017/tree/master/PancreasDE
+
 ## Pipelines in Bioinformatics
 [ISCB Nextflow part one](https://www.youtube.com/watch?v=FNv0b3PeHSw)
 
@@ -311,6 +315,14 @@ http://bioinformatics.age.mpg.de/presentations-tutorials/presentations/modules/s
 
 http://oshlacklab.com/combes-organoid-paper/07_Combined_Clustering.html
 
+https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/tutorial-reclustering
+
+https://github.com/chanzuckerberg/scRNA-python-workshop
+
+https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/tutorial-celltypes
+
+https://github.com/haniffalab/Single-cell-RNAseq-data-analysis-bundle
+
 ## Deep learning
 https://github.com/fchollet/deep-learning-with-python-notebooks
 
@@ -346,6 +358,42 @@ https://carpentries-incubator.github.io/docker-introduction/
 https://carpentries-incubator.github.io/docker-introduction/
 
 https://carpentries-incubator.github.io/scrna-seq-analysis/04-Normalization/index.html
+
+https://carpentries-incubator.github.io/bioc-rnaseq/
+
+https://datacarpentry.org/cloud-genomics/
+
+https://datacarpentry.org/shell-genomics/
+
+https://datacarpentry.org/wrangling-genomics/
+
+https://carpentries-incubator.github.io/scrna-seq-analysis/04-Normalization/index.html
+
+https://carpentries-incubator.github.io/docker-introduction/
+
+https://ome.github.io/training-docker/
+
+https://gtk-teaching.github.io/ChIP-seq/
+
+https://gtk-teaching.github.io/NGS-intro/
+
+https://gtk-teaching.github.io/Microarrays-R/index.html
+
+https://carpentries-incubator.github.io/bioc-rnaseq/
+
+https://edcarp.github.io/introduction-to-conda-for-data-scientists/
+
+https://carpentries-incubator.github.io/high-dimensional-stats-r/
+
+https://carpentries-incubator.github.io/snakemake-novice-bioinformatics/
+
+https://carpentries-incubator.github.io/workflows-nextflow/
+
+http://www.hpc-carpentry.org/hpc-python/
+
+https://blog.byronjsmith.com/snakemake-analysis.html
+
+https://snakemake.readthedocs.io/en/stable/tutorial/basics.html
 
 ## Batch effects
 https://evayiwenwang.github.io/Managing_batch_effects/adjust.html#sva
@@ -415,3 +463,27 @@ https://www.10xgenomics.com/videos?query=&page=1
 https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/tutorial-reclustering
 
 https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/tutorial-celltypes
+
+
+## Data vizualization
+https://miqg.github.io/practical_tools_for_quick_data_visualization/README.html
+
+## Multiomics
+https://biofam.github.io/MOFA2/tutorials.html
+
+## Rmarkdown
+https://www.earthdatascience.org/courses/earth-analytics/multispectral-remote-sensing-modis/add-variables-to-rmarkdown-report/
+
+https://www.datalorax.com/post/power-parameterized-reports-plumber/
+
+https://towardsdatascience.com/parameters-in-r-markdown-ade0cfac0c9b
+
+https://towardsdatascience.com/api-interaction-with-r-46bf1d4f4fe6
+
+## Snakemake
+https://github.com/ctb/2019-snakemake-ucdavis/blob/master/tutorial.md
+
+## Bioinformatics teaching
+https://github.com/ASPteaching
+
+https://edcarp.github.io/Ed-DaSH/ed_dash_team.html
