@@ -601,3 +601,6 @@ https://medium.com/biosyntax/remote-connection-to-jupyter-notebook-f3ab841d9fed
 
 ## automating makecontrasts
 https://support.bioconductor.org/p/12951/
+
+## snakemake
+https://github.com/ctb/2019-snakemake-ucdavis/blob/master/tutorial.md
