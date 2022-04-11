@@ -595,3 +595,6 @@ https://towardsdatascience.com/pheatmap-draws-pretty-heatmaps-483dab9a3cc
 
 ## python
 https://amfdrey.github.io/2022-04-04-NiTheCS-Online/
+
+## jupyter notebook remote
+https://medium.com/biosyntax/remote-connection-to-jupyter-notebook-f3ab841d9fed
