@@ -586,3 +586,6 @@ http://www.nathalievialaneix.eu/doc/html/guidelines_modele_mixte.html
 http://tuxette.clementine.wf/
 
 http://www.nathalievialaneix.eu/teaching/rnaseq.html
+
+## conda
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
