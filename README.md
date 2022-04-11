@@ -125,6 +125,65 @@ https://m.blog.naver.com/jinp7/221848536949
 
 https://combine-australia.github.io/RNAseq-R/06-rnaseq-day1.html
 
+https://www.bioconductor.org/packages/devel/workflows/vignettes/rnaseqGene/inst/doc/rnaseqGene.html
+
+https://bioinformatics.uconn.edu/resources-and-events/tutorials-2/rna-seq-tutorial-with-reference-genome/#
+
+https://rpubs.com/laurenblake/384967
+
+https://git.embl.de/provazni/rna-seq-tutorial/-/blob/master/RNAseq_data_analysis.rmd
+
+https://ucdavis-bioinformatics-training.github.io/2018-June-RNA-Seq-Workshop/thursday/DE.html
+
+https://gist.github.com/jdblischak/fdb1745612927252a7633751e5e60bcb
+
+http://www.compbio.dundee.ac.uk/user/pschofield/Projects/teaching_pg/workshops/biocDGE.html
+
+http://www.compbio.dundee.ac.uk/user/pschofield/Projects/teaching_pg/workshops/biocNGS.html
+
+https://www.biostars.org/p/479903/
+
+https://www.nbic.nl/uploads/media/Practical_DiffExpr.pdf
+
+https://github.com/NBISweden/workshop-RNAseq/blob/master/lab_preprocessing.Rmd
+
+https://bioinfotraining.bio.cam.ac.uk/postgraduate/specialized/bioinfo-RNAseq3
+
+https://alexslemonade.github.io/refinebio-examples/03-rnaseq/dimension-reduction_rnaseq_01_pca.html#43_Define_a_minimum_counts_cutoff
+
+https://combine-australia.github.io/RNAseq-R/06-rnaseq-day1.html#Visualising_gene_set_tests:_Barcode_and_enrichment_plots
+
+https://web.azenta.com/a-quick-start-guide-to-rna-seq-data-analysis#step6
+
+https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/RNASeq2018/html/02_Preprocessing_Data.nb.html
+
+https://github.com/elsayed-lab/manuscript-shared-rnaseq
+
+https://github.com/MahejabeenNidhi/RNASeqanalysis/blob/master/mousedata/limma.R
+
+https://github.com/lpantano/mypubs/blob/master/srnaseq/mirqc/ready_report.rmd
+
+https://scienceparkstudygroup.github.io/rna-seq-lesson/06-differential-analysis/index.html
+
+https://www.nxn.se/valent/2016/10/3/the-first-steps-in-rna-seq-expression-analysis-single-cell-and-other
+
+https://github.com/snakemake-workflows/single-cell-rna-seq
+
+https://research.stowers.org/cws/CompGenomics/Tutorial/GO_analysis.html
+
+https://www.bioconductor.org/packages/release/bioc/vignettes/conclus/inst/doc/conclus_vignette.pdf
+
+https://nbisweden.github.io/workshop-scRNAseq/labs/compiled/seurat/seurat_05_dge.html
+
+https://icbi-lab.github.io/borst2021/02_filter_data.html
+
+https://ngdc.cncb.ac.cn/cancerscem/browse
+
+https://www.reneshbedre.com/tags/#bioinformatics
+
+https://programmerclick.com/article/98952061357/
+
+https://gtk-teaching.github.io/Microarrays-R/index.html
 
 ## Pipelines in Bioinformatics
 [ISCB Nextflow part one](https://www.youtube.com/watch?v=FNv0b3PeHSw)
@@ -204,11 +263,155 @@ https://rpubs.com/Ronlee/SeuratPractice
 
 https://github.com/satijalab/seurat/issues/4955
 
+https://satijalab.org/signac/articles/future.html
+
+https://github.com/vertesy/Seurat.multicore/blob/master/Seurat.Multicore.Examples.R
+
+https://github.com/satijalab/seurat/issues/3126
+
+https://dm5migu4zj3pb.cloudfront.net/manuscripts/136000/136578/JCI136578.sd.pdf
+
+https://satijalab.org/seurat/articles/integration_large_datasets.html
+
+https://github.com/satijalab/seurat/issues/4623
+
+https://rpubs.com/aranyak111/693840
+
+https://rpubs.com/aranyak111/693926
+
+https://satijalab.org/seurat/articles/integration_rpca.html
+
+https://github.com/satijalab/seurat/issues/4419
+
+https://htmlpreview.github.io/?https://github.com/satijalab/seurat.wrappers/blob/master/docs/harmony.html
+
+https://bioconductor.org/books/release/OSCA/book-contents.html
+
+https://satijalab.org/seurat/archive/v3.1/conversion_vignette.html
+
+https://satijalab.org/seurat/archive/v3.1/integration.html#reciprocal-pca
+
+https://bioinfotraining.bio.cam.ac.uk/postgraduate/specialized/bioinfo-RNAseq3
+
+https://github.com/HediaTnani/CellAnnotationTutorial/blob/main/CodingBlocks.Rmd
+
+https://rnabio.org/module-08-scrna/0008/02/01/scRNA/
+
+https://ucdavis-bioinformatics-training.github.io/2020-Intro_Single_Cell_RNA_Seq/data_analysis/scrna_analysis_prepare
+
+https://github.com/satijalab/seurat/issues/3396
+
+https://bioconductor.org/books/release/SingleRBook/
+
+http://bioinformatics.age.mpg.de/presentations-tutorials/presentations/modules/single-cell//bioconductor_tutorial.html
+
+https://icbi-lab.github.io/borst2021/02_filter_data.html
+
+http://bioinformatics.age.mpg.de/presentations-tutorials/presentations/modules/single-cell//bioconductor_tutorial.html
+
+http://oshlacklab.com/combes-organoid-paper/07_Combined_Clustering.html
+
 ## Deep learning
 https://github.com/fchollet/deep-learning-with-python-notebooks
+
+## Carpenteries
+https://scienceparkstudygroup.github.io/rna-seq-lesson/01-introduction/index.html
+
+https://scienceparkstudygroup.github.io/rna-seq-lesson/06-differential-analysis/index.html
+
+https://carpentries-incubator.github.io/logistic-regression-public-health/index.html
+
+https://carpentries-incubator.github.io/statistical-thinking-public-health/
+
+https://carpentries-incubator.github.io/machine-learning-novice-sklearn/
+
+https://carpentries-incubator.github.io/deep-learning-intro/index.html
+
+https://carpentries-incubator.github.io/introduction-to-conda-for-data-scientists/
+
+https://carpentries-incubator.github.io/lesson-parallel-python/
+
+https://swcarpentry.github.io/git-novice/
+
+http://swcarpentry.github.io/r-novice-inflammation/15-supp-loops-in-depth/index.html
+
+http://swcarpentry.github.io/r-novice-inflammation/05-cmdline/index.html
+
+https://gtk-teaching.github.io/NGS-intro/
+
+https://ome.github.io/training-docker/
+
+https://carpentries-incubator.github.io/docker-introduction/
+
+https://carpentries-incubator.github.io/docker-introduction/
+
+https://carpentries-incubator.github.io/scrna-seq-analysis/04-Normalization/index.html
+
+## Batch effects
+https://evayiwenwang.github.io/Managing_batch_effects/adjust.html#sva
+
+http://jtleek.com/genstats/inst/doc/02_13_batch-effects.html
+
+## Heatmaps
+https://jokergoo.github.io/ComplexHeatmap-reference/book/introduction.html
 
 ## Mouse to human gene names
 https://www.r-bloggers.com/2016/10/converting-mouse-to-human-gene-names-with-biomart-package/
 
 ## purrr
 https://jennybc.github.io/purrr-tutorial/ls02_map-extraction-advanced.html
+
+https://byuistats.github.io/M335/parallel_furrr.html
+
+https://bookdown.org/rdpeng/rprogdatascience/parallel-computation.html
+
+## Targets
+https://books.ropensci.org/targets/hpc.html
+
+## PCA
+https://www.biostars.org/p/479903/
+
+https://rpubs.com/crazyhottommy/PCA_MDS
+
+https://bioconductor.org/packages/release/bioc/vignettes/PCAtools/inst/doc/PCAtools.html
+
+https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html
+
+## Shiny
+https://engineering-shiny.org/optimizing-shiny-code.html
+
+## Functional annotation
+https://nbisweden.github.io/workshop-RNAseq/2111/lab_functional.html#21_enrichR
+
+https://www.biostars.org/p/339934/
+
+## small RNAseq
+https://github.com/nf-core/smrnaseq/blob/master/bin/edgeR_miRBase.r
+
+## Structural variants
+https://www.bioconductor.org/packages/release/bioc/vignettes/StructuralVariantAnnotation/inst/doc/vignettes.html
+
+## deseq2
+https://github.com/compbiocore/DEseq_workshop_2_2021/blob/main/deseq_workshop_2.ipynb
+
+https://github.com/compbiocore/rnaseq_workshop_2021/blob/main/deseq_1.ipynb
+
+https://github.com/compbiocore/ccv_bootcamp_bioinfo/blob/main/annot_resources.ipynb
+
+
+## DSL2
+https://telatin.github.io/microbiome-bioinformatics/Nextflow-start/
+
+## bioinformatics tutorials
+https://ucdavis-bioinformatics-training.github.io/
+
+## Rmarkdown mail
+https://pkgs.rstudio.com/blastula/
+
+## 10x genomics
+
+https://www.10xgenomics.com/videos?query=&page=1
+
+https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/tutorial-reclustering
+
+https://support.10xgenomics.com/single-cell-gene-expression/software/visualization/latest/tutorial-celltypes
