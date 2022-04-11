@@ -1,4 +1,9 @@
 # Data-Science
+## Data science for beginners
+https://github.com/microsoft/Data-Science-For-Beginners
+
+https://github.com/microsoft/ML-For-Beginners
+
 ## Python
 [Efficient Python Tricks and Tools for Data Scientists](https://khuyentran1401.github.io/Efficient_Python_tricks_and_tools_for_data_scientists/README.html)
 
@@ -189,6 +194,34 @@ https://github.com/jdblischak/dc-bioc-limma/blob/master/code/populus.R
 
 https://github.com/MarioniLab/MNN2017/tree/master/PancreasDE
 
+https://support.bioconductor.org/p/117566/
+
+https://nbisweden.github.io/NGScourse/1710/labs/RNAseqLab.html#descript
+
+https://stephenturner.github.io/deseq-to-fgsea/
+
+https://support.bioconductor.org/p/104580/
+
+https://rpubs.com/jrgonzalezISGlobal/transcriptomic_analyses
+
+https://genomicsclass.github.io/book/pages/adjusting_with_linear_models.html
+
+https://rnabio.org/module-03-expression/0003/05/01/Batch-Correction/
+
+https://github.com/wasimaftab/LIMMA-pipeline-proteomics
+
+https://baderlab.github.io/CBW_Pathways_2021/gsea-lab.html
+
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
+
+https://bioinformatics-core-shared-training.github.io/cruk-summer-school-2018/RNASeq2018/html/06_Gene_set_testing.nb.html#plot-the-top-10
+
+https://stat.ethz.ch/pipermail/bioconductor/2013-October/055283.html
+
+https://costalab.ukaachen.de/open_data/Bioinformatics_Analysis_in_R_2019/BIAR_D3/handout.html#3_rnaseq_normalization
+
+
+
 ## Pipelines in Bioinformatics
 [ISCB Nextflow part one](https://www.youtube.com/watch?v=FNv0b3PeHSw)
 
@@ -323,6 +356,39 @@ https://support.10xgenomics.com/single-cell-gene-expression/software/visualizati
 
 https://github.com/haniffalab/Single-cell-RNAseq-data-analysis-bundle
 
+https://comunidadbioinfo.github.io/cdsb2021_scRNAseq/control-de-calidad.html
+
+https://training.galaxyproject.org/archive/2022-03-01/topics/transcriptomics/tutorials/scrna-intro/slides-plain_ES.html
+
+https://kb.10xgenomics.com/hc/en-us/articles/360001086611-Why-do-I-see-a-high-level-of-mitochondrial-gene-expression-
+
+https://satijalab.org/seurat/articles/future_vignette.html
+
+https://github.com/satijalab/seurat/issues/4110
+
+http://biocworkshops2019.bioconductor.org.s3-website-us-east-1.amazonaws.com/page/muscWorkshop__vignette/
+
+https://rockefelleruniversity.github.io/scRNA-seq/exercises/answers/exercise1_answers.html
+
+https://github.com/satijalab/seurat/issues/2180
+
+https://github.com/satijalab/seurat/issues/2115
+
+https://www.bioinformatics.babraham.ac.uk/training/10XRNASeq/seurat_workflow.html#Finding_Markers_for_each_Cluster
+
+https://github.com/quadbiolab/scRNAseq_analysis_vignette/blob/master/Tutorial.md
+
+http://barc.wi.mit.edu/education/hot_topics/scRNAseq_2020/SingleCell_Seurat_2020.html
+
+https://swaruplab.bio.uci.edu/tutorial/integration/integration_tutorial.html
+
+https://divingintogeneticsandgenomics.rbind.io/post/stacked-violin-plot-for-visualizing-single-cell-data-in-seurat/
+
+https://www.singlecellcourse.org/scrna-seq-analysis-with-bioconductor.html
+
+https://rpubs.com/BarryDigby/765418
+
+
 ## Deep learning
 https://github.com/fchollet/deep-learning-with-python-notebooks
 
@@ -395,6 +461,10 @@ https://blog.byronjsmith.com/snakemake-analysis.html
 
 https://snakemake.readthedocs.io/en/stable/tutorial/basics.html
 
+https://carpentries-incubator.github.io/workflows-snakemake/
+
+https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
+
 ## Batch effects
 https://evayiwenwang.github.io/Managing_batch_effects/adjust.html#sva
 
@@ -433,6 +503,8 @@ https://nbisweden.github.io/workshop-RNAseq/2111/lab_functional.html#21_enrichR
 
 https://www.biostars.org/p/339934/
 
+https://compbiocore.github.io/bioconductor-workshop-2/assets/BrownCOBREDay2Session3.html
+
 ## small RNAseq
 https://github.com/nf-core/smrnaseq/blob/master/bin/edgeR_miRBase.r
 
@@ -468,6 +540,8 @@ https://support.10xgenomics.com/single-cell-gene-expression/software/visualizati
 ## Data vizualization
 https://miqg.github.io/practical_tools_for_quick_data_visualization/README.html
 
+https://r-charts.com
+
 ## Multiomics
 https://biofam.github.io/MOFA2/tutorials.html
 
@@ -487,3 +561,28 @@ https://github.com/ctb/2019-snakemake-ucdavis/blob/master/tutorial.md
 https://github.com/ASPteaching
 
 https://edcarp.github.io/Ed-DaSH/ed_dash_team.html
+
+https://www.bcchr.ca/tog/tog-events/workshops
+
+## Findmarkers
+http://davemcg.github.io/post/parallel-seurat-findmarker/
+
+## RNASEQ models
+
+http://www.nathalievialaneix.eu/teaching/rnaseq.html
+
+http://www.nathalievialaneix.eu/doc/html/solution-edgeR-rnaseq.html
+
+http://www.nathalievialaneix.eu/doc/html/solution_edgeR-tomato-withcode.html
+
+http://www.nathalievialaneix.eu/doc/html/solution_edgeR-tomato.html
+
+http://www.nathalievialaneix.eu/doc/html/TP1_normalization.html
+
+http://www.nathalievialaneix.eu/doc/html/TP2_interaction.html
+
+http://www.nathalievialaneix.eu/doc/html/guidelines_modele_mixte.html
+
+http://tuxette.clementine.wf/
+
+http://www.nathalievialaneix.eu/teaching/rnaseq.html
