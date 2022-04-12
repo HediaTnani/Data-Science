@@ -497,6 +497,7 @@ https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html
 
 ## Shiny
 https://engineering-shiny.org/optimizing-shiny-code.html
+https://www.martinfrigaard.io/post/shiny-namespaces/
 
 ## Functional annotation
 https://nbisweden.github.io/workshop-RNAseq/2111/lab_functional.html#21_enrichR
@@ -525,7 +526,7 @@ https://telatin.github.io/microbiome-bioinformatics/Nextflow-start/
 ## bioinformatics tutorials
 https://ucdavis-bioinformatics-training.github.io/
 
-## Rmarkdown mail
+## Blastula
 https://pkgs.rstudio.com/blastula/
 
 ## 10x genomics
