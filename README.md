@@ -605,3 +605,6 @@ https://support.bioconductor.org/p/12951/
 
 ## snakemake
 https://github.com/ctb/2019-snakemake-ucdavis/blob/master/tutorial.md
+
+## Linkedin
+https://towardsdatascience.com/how-to-automate-creating-posts-on-linkedin-f87a5484be00
