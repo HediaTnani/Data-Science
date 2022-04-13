@@ -558,6 +558,34 @@ https://towardsdatascience.com/api-interaction-with-r-46bf1d4f4fe6
 ## Snakemake
 https://github.com/ctb/2019-snakemake-ucdavis/blob/master/tutorial.md
 
+https://edwards.flinders.edu.au/snakemake-tutorial/
+
+https://github.com/nathanhaigh/snakemake-tutorial
+
+https://slowkow.com/notes/snakemake-tutorial/
+
+https://git.embl.de/schwarzl/snakemake-tutorial
+
+https://snakemake.bitbucket.io/snakemake-tutorial.html
+
+https://programmerclick.com/article/3447343852/
+
+https://programs.wiki/wiki/snakemake-tutorial-01-basics.html
+
+https://vincebuffalo.com/blog/2020/03/04/understanding-snakemake.html
+
+https://bitbucket.org/snakemake/snakemake-tutorial/src/master/
+
+https://hackmd.io/@sateeshp/Bkatoy47X?type=view
+
+https://charlesreid1.com/wiki/Snakemake/DahakFlot
+
+https://merenlab.org/2018/07/09/anvio-snakemake-workflows/
+
+https://www.linkedin.com/pulse/snakemake-pipeline-azure-cycle-cloud-part-2-manoj-kumar/
+
+https://evodify.com/snakemake-checkpoint-tutorial/
+
 ## Bioinformatics teaching
 https://github.com/ASPteaching
 
