@@ -608,3 +608,6 @@ https://github.com/ctb/2019-snakemake-ucdavis/blob/master/tutorial.md
 
 ## Linkedin
 https://towardsdatascience.com/how-to-automate-creating-posts-on-linkedin-f87a5484be00
+
+## proteomics
+https://statomics.github.io/PDA21/
