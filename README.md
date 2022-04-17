@@ -650,3 +650,6 @@ https://statomics.github.io/PDA21/
 https://compgenomr.github.io/book/
 
 https://ivanek.github.io/analysisOfGenomicsDataWithR/
+
+# ATAC-Seq
+https://tobiasrausch.com/courses/atac/index.html
