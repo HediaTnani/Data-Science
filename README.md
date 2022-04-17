@@ -21,6 +21,8 @@ https://github.com/microsoft/ML-For-Beginners
 
 [Parallel programming](https://berkeley-scf.github.io/tutorial-parallelization/parallel-R)
 
+[dataVis](https://michaelgastner.com/DAVisR2021/)
+
 ## Github actions
 [Using Github Actions as a job scheduler for R scripts](https://sabeeh.medium.com/using-github-actions-as-a-job-scheduler-for-r-scripts-7b92539372f4)
 
