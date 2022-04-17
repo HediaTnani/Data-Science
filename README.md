@@ -653,3 +653,5 @@ https://ivanek.github.io/analysisOfGenomicsDataWithR/
 
 # ATAC-Seq
 https://tobiasrausch.com/courses/atac/index.html
+
+https://rpubs.com/tiagochst/atac_seq_workshop
