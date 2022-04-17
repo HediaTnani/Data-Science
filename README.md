@@ -533,6 +533,8 @@ https://ucdavis-bioinformatics-training.github.io/
 ## Blastula
 https://pkgs.rstudio.com/blastula/
 
+https://gist.github.com/kellobri/f78e29d0cbcf640fd8dbb9d8f7624c22
+
 ## 10x genomics
 
 https://www.10xgenomics.com/videos?query=&page=1
@@ -646,3 +648,5 @@ https://statomics.github.io/PDA21/
 
 # Computational genomics
 https://compgenomr.github.io/book/
+
+https://ivanek.github.io/analysisOfGenomicsDataWithR/
