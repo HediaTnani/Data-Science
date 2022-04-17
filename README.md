@@ -641,3 +641,6 @@ https://towardsdatascience.com/how-to-automate-creating-posts-on-linkedin-f87a54
 
 ## proteomics
 https://statomics.github.io/PDA21/
+
+# Computational genomics
+https://compgenomr.github.io/book/
