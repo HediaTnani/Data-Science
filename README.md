@@ -479,6 +479,8 @@ https://www.r-bloggers.com/2016/10/converting-mouse-to-human-gene-names-with-bio
 ## purrr
 https://jennybc.github.io/purrr-tutorial/ls02_map-extraction-advanced.html
 
+https://jennybc.github.io/purrr-tutorial/ls03_map-function-syntax.html
+
 https://byuistats.github.io/M335/parallel_furrr.html
 
 https://bookdown.org/rdpeng/rprogdatascience/parallel-computation.html
