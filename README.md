@@ -657,3 +657,6 @@ https://tobiasrausch.com/courses/atac/index.html
 https://rpubs.com/tiagochst/atac_seq_workshop
 
 https://colab.research.google.com/github/yoseflab/scvi_tutorials/blob/0.14.1/peakvi_in_R.ipynb
+
+# Functional genomics
+http://bioconductor.org/packages/release/bioc/vignettes/vissE/inst/doc/vissE.html
