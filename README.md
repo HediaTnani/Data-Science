@@ -660,3 +660,7 @@ https://colab.research.google.com/github/yoseflab/scvi_tutorials/blob/0.14.1/pea
 
 # Functional genomics
 http://bioconductor.org/packages/release/bioc/vignettes/vissE/inst/doc/vissE.html
+
+https://stephenturner.github.io/deseq-to-fgsea/#using_the_fgsea_package
+
+https://github.com/hawn-lab/workshops_UW_Seattle/blob/master/2021.07.14_GSEA/GSEA_notes.Rmd#L114
