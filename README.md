@@ -666,3 +666,5 @@ https://stephenturner.github.io/deseq-to-fgsea/#using_the_fgsea_package
 https://github.com/hawn-lab/workshops_UW_Seattle/blob/master/2021.07.14_GSEA/GSEA_notes.Rmd#L114
 
 https://sbc.shef.ac.uk/workshops/2019-01-14-rna-seq-r/rna-seq-gene-set-testing.nb.html
+
+https://bioconductor.org/packages/devel/bioc/vignettes/fgsea/inst/doc/fgsea-tutorial.html
