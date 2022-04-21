@@ -524,8 +524,10 @@ https://github.com/compbiocore/rnaseq_workshop_2021/blob/main/deseq_1.ipynb
 https://github.com/compbiocore/ccv_bootcamp_bioinfo/blob/main/annot_resources.ipynb
 
 
-## DSL2
+## Nextflow DSL2
 https://telatin.github.io/microbiome-bioinformatics/Nextflow-start/
+
+https://sateeshperi.github.io/nextflow_varcal/nextflow/
 
 ## bioinformatics tutorials
 https://ucdavis-bioinformatics-training.github.io/
@@ -569,7 +571,7 @@ https://edwards.flinders.edu.au/snakemake-tutorial/
 https://github.com/nathanhaigh/snakemake-tutorial
 
 https://slowkow.com/notes/snakemake-tutorial/
-
+b
 https://git.embl.de/schwarzl/snakemake-tutorial
 
 https://snakemake.bitbucket.io/snakemake-tutorial.html
