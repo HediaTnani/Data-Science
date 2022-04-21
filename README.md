@@ -653,6 +653,9 @@ https://compgenomr.github.io/book/
 
 https://ivanek.github.io/analysisOfGenomicsDataWithR/
 
+# Genomic Data Visualization
+https://jef.works/genomic-data-visualization/course
+
 # ATAC-Seq
 https://tobiasrausch.com/courses/atac/index.html
 
