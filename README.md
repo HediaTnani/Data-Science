@@ -469,6 +469,8 @@ https://carpentries-incubator.github.io/workflows-snakemake/
 
 https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
 
+https://edcarp.github.io/Ed-DaSH/ed_dash_team.html #Ed-DaSH
+
 ## Batch effects
 https://evayiwenwang.github.io/Managing_batch_effects/adjust.html#sva
 
