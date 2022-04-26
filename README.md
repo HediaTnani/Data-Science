@@ -390,6 +390,8 @@ https://www.singlecellcourse.org/scrna-seq-analysis-with-bioconductor.html
 
 https://rpubs.com/BarryDigby/765418
 
+https://broadinstitute.github.io/2019_scWorkshop/
+
 
 ## Deep learning
 https://github.com/fchollet/deep-learning-with-python-notebooks
