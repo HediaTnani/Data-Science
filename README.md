@@ -471,6 +471,8 @@ https://snakemake.readthedocs.io/en/stable/tutorial/tutorial.html
 
 https://edcarp.github.io/Ed-DaSH/ed_dash_team.html #Ed-DaSH
 
+https://otagocarpentries.github.io/bioinformatics-spring-school-2021/
+
 ## Batch effects
 https://evayiwenwang.github.io/Managing_batch_effects/adjust.html#sva
 
