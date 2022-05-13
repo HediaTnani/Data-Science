@@ -685,3 +685,6 @@ https://bioconductor.org/packages/devel/bioc/vignettes/fgsea/inst/doc/fgsea-tuto
 
 # Rstudio Professional Server
 https://docs.rstudio.com/ide/server-pro/1.3.1019-1/index.html#introduction
+
+# R Python
+https://ivelasq.rbind.io/blog/tidyverse-python-ports/
