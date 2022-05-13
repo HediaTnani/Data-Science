@@ -688,3 +688,6 @@ https://docs.rstudio.com/ide/server-pro/1.3.1019-1/index.html#introduction
 
 # R Python
 https://ivelasq.rbind.io/blog/tidyverse-python-ports/
+
+# BIG BIOINFORMATICS
+https://github.com/bigbioinformatics
