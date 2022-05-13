@@ -691,3 +691,8 @@ https://ivelasq.rbind.io/blog/tidyverse-python-ports/
 
 # BIG BIOINFORMATICS
 https://github.com/bigbioinformatics
+
+# Conda environemnt
+https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#deactivating-an-environment
+
+https://github.com/Haydnspass/miniforge#rosetta-on-mac-with-apple-silicon-hardware
