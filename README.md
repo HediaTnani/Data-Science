@@ -30,6 +30,8 @@ https://github.com/microsoft/ML-For-Beginners
 
 [Deploying ML models in production with R + Github Action](https://www.youtube.com/watch?v=nhTgIyN7NC8&t=2s)
 
+[Github actions with R](https://orchid00.github.io/actions_sandbox/websites-using-pkgdown-bookdown-and-blogdown.html#deploy-pkgdown)
+
 ## APIs
 [Hosting an R Plumber API using Azure App Service](https://veerlevanleemput.medium.com/hosting-a-r-plumber-api-using-azure-app-service-4e78936787cf)
 
