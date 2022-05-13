@@ -696,3 +696,8 @@ https://github.com/bigbioinformatics
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html#deactivating-an-environment
 
 https://github.com/Haydnspass/miniforge#rosetta-on-mac-with-apple-silicon-hardware
+
+# R y Python
+https://www.youtube.com/watch?v=FJUJF8vkP1A&t=403s
+
+https://www.cushanalytics.com/posts/marrying%20r%20with%20python/
