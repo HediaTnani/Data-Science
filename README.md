@@ -701,3 +701,6 @@ https://github.com/Haydnspass/miniforge#rosetta-on-mac-with-apple-silicon-hardwa
 https://www.youtube.com/watch?v=FJUJF8vkP1A&t=403s
 
 https://www.cushanalytics.com/posts/marrying%20r%20with%20python/
+
+# R shiny automation
+https://github.com/franciscoyira/pipeline-twitter-constituyentes/blob/main/source/retrieve_tweets.R
