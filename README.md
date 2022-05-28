@@ -702,5 +702,7 @@ https://www.youtube.com/watch?v=FJUJF8vkP1A&t=403s
 
 https://www.cushanalytics.com/posts/marrying%20r%20with%20python/
 
+https://www.youtube.com/watch?v=FJUJF8vkP1A&t=700s
+
 # R shiny automation
 https://github.com/franciscoyira/pipeline-twitter-constituyentes/blob/main/source/retrieve_tweets.R
