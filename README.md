@@ -707,5 +707,8 @@ https://www.youtube.com/watch?v=FJUJF8vkP1A&t=700s
 # R shiny automation
 https://github.com/franciscoyira/pipeline-twitter-constituyentes/blob/main/source/retrieve_tweets.R
 
-#API
+# API
 https://towardsdatascience.com/rest-apis-on-industrial-plcs-eb17e8c4d51b
+
+# PCA
+https://medium.com/depurr/a-practical-guide-to-principal-component-analysis-pca-aa9cc5d1f13b
