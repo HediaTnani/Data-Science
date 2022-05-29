@@ -712,3 +712,6 @@ https://towardsdatascience.com/rest-apis-on-industrial-plcs-eb17e8c4d51b
 
 # PCA
 https://medium.com/depurr/a-practical-guide-to-principal-component-analysis-pca-aa9cc5d1f13b
+
+# Neural network
+https://towardsdatascience.com/how-neural-networks-actually-work-python-implementation-simplified-a1167b4f54fe
