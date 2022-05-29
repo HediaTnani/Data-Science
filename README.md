@@ -706,3 +706,6 @@ https://www.youtube.com/watch?v=FJUJF8vkP1A&t=700s
 
 # R shiny automation
 https://github.com/franciscoyira/pipeline-twitter-constituyentes/blob/main/source/retrieve_tweets.R
+
+#API
+https://towardsdatascience.com/rest-apis-on-industrial-plcs-eb17e8c4d51b
