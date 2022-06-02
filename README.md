@@ -715,3 +715,6 @@ https://medium.com/depurr/a-practical-guide-to-principal-component-analysis-pca-
 
 # Neural network
 https://towardsdatascience.com/how-neural-networks-actually-work-python-implementation-simplified-a1167b4f54fe
+
+# Use R in python
+https://www.rstudio.com/about/job-posting/?gh_jid=5118998003
