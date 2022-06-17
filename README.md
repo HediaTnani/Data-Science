@@ -718,3 +718,6 @@ https://towardsdatascience.com/how-neural-networks-actually-work-python-implemen
 
 # Use R in python
 https://www.rstudio.com/about/job-posting/?gh_jid=5118998003
+
+# GWAS tutorial
+https://pbreheny.github.io/adv-gwas-tutorial/imputation.html
