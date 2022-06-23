@@ -721,3 +721,6 @@ https://www.rstudio.com/about/job-posting/?gh_jid=5118998003
 
 # GWAS tutorial
 https://pbreheny.github.io/adv-gwas-tutorial/imputation.html
+
+# Shiny
+[styling shiny](https://www.youtube.com/watch?v=GZmzj8a4liY)
