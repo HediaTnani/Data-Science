@@ -729,3 +729,5 @@ https://pbreheny.github.io/adv-gwas-tutorial/imputation.html
 https://staphb.org/resources/2020-04-29-nextflow_batch.html
 
 https://catalog.us-east-1.prod.workshops.aws/workshops/8213ad51-878f-493b-8e5a-fbea22c4360c/en-US
+
+https://www.nextflow.io/blog/2022/learn-nextflow-in-2022.html
