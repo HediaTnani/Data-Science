@@ -724,3 +724,8 @@ https://pbreheny.github.io/adv-gwas-tutorial/imputation.html
 
 # Shiny
 [styling shiny](https://www.youtube.com/watch?v=GZmzj8a4liY)
+
+# Nextflow
+https://staphb.org/resources/2020-04-29-nextflow_batch.html
+
+https://catalog.us-east-1.prod.workshops.aws/workshops/8213ad51-878f-493b-8e5a-fbea22c4360c/en-US
