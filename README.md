@@ -394,6 +394,10 @@ https://rpubs.com/BarryDigby/765418
 
 https://broadinstitute.github.io/2019_scWorkshop/
 
+[sc regularization](https://divingintogeneticsandgenomics.rbind.io/post/marker-gene-selection-using-logistic-regression-and-regularization-for-scrnaseq/)
+
+[sc random forest](https://divingintogeneticsandgenomics.rbind.io/post/use-random-forest-and-boost-trees-to-find-marker-genes-in-scrnaseq-data/)
+
 
 ## Deep learning
 https://github.com/fchollet/deep-learning-with-python-notebooks
