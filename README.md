@@ -745,7 +745,7 @@ https://cmdlinetips.com/2019/05/how-to-do-pca-in-tidyverse-framework/
 
 https://rpubs.com/aali4356/Ali_HW9
 
-https://tbradley1013.github.io/2018/02/01/pca-in-a-tidy-verse-framework/
+https://tbradley1013.github.io/2018/02/01/pca-in-a-tidy-verse-framework/ [PCA in a tidy(verse) framework]
 
 https://rstudio-pubs-static.s3.amazonaws.com/585948_abd70a6fc3e24d4fad8944197bc5dd25.html
 
