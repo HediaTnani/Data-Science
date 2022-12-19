@@ -753,4 +753,4 @@ http://www.science.smith.edu/~jcrouser/SDS293/labs/2016/lab18.html
 
 https://clauswilke.com/blog/2020/09/07/pca-tidyverse-style/
 
-https://bookdown.org/Maxine/r4ds/examples.html
+https://bookdown.org/Maxine/r4ds/examples.html [pca tidyverse updated]
