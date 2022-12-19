@@ -754,3 +754,22 @@ http://www.science.smith.edu/~jcrouser/SDS293/labs/2016/lab18.html
 https://clauswilke.com/blog/2020/09/07/pca-tidyverse-style/
 
 https://bookdown.org/Maxine/r4ds/examples.html [pca tidyverse updated]
+
+https://rpkgs.datanovia.com/factoextra/index.html [factoextra]
+
+https://rstudio-pubs-static.s3.amazonaws.com/323416_ab58ad22d9e64ba2831569cf3d14a609.html [factoextra]
+
+https://semba-blog.netlify.app/06/02/2020/analyse-pca-results-in-tidyverse-context/
+
+https://medium.com/@SportSciData/https-medium-com-sportscidata-principal-component-analysis-and-visualisation-of-training-data-48bbb3f51afc
+
+https://bjnnowak.netlify.app/2021/09/15/r-pca-with-tidyverse/
+
+https://bayesbaes.github.io/2021/01/28/PCA-tutorial.html
+
+https://stackoverflow.com/questions/72881872/how-to-label-specific-data-points-on-a-pca-plot-in-r-using-ggplot
+
+https://tengkuhanis.netlify.app/post/explore-data-using-pca/
+
+# Biobroom
+https://bioconductor.org/packages/release/bioc/vignettes/biobroom/inst/doc/biobroom_vignette.html
