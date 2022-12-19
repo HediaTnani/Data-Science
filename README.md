@@ -735,3 +735,6 @@ https://staphb.org/resources/2020-04-29-nextflow_batch.html
 https://catalog.us-east-1.prod.workshops.aws/workshops/8213ad51-878f-493b-8e5a-fbea22c4360c/en-US
 
 https://www.nextflow.io/blog/2022/learn-nextflow-in-2022.html
+
+# PCA the tidy way
+https://www.r-bloggers.com/2018/01/pca-in-a-tidyverse-framework/
