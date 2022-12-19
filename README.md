@@ -738,3 +738,5 @@ https://www.nextflow.io/blog/2022/learn-nextflow-in-2022.html
 
 # PCA the tidy way
 https://www.r-bloggers.com/2018/01/pca-in-a-tidyverse-framework/
+
+https://stackoverflow.com/questions/6578355/plotting-pca-biplot-with-ggplot2
