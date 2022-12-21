@@ -761,6 +761,8 @@ https://rstudio-pubs-static.s3.amazonaws.com/323416_ab58ad22d9e64ba2831569cf3d14
 
 https://semba-blog.netlify.app/06/02/2020/analyse-pca-results-in-tidyverse-context/
 
+https://semba-blog.netlify.app/05/13/2020/simple-pca-in-r/ [biplot]
+
 https://medium.com/@SportSciData/https-medium-com-sportscidata-principal-component-analysis-and-visualisation-of-training-data-48bbb3f51afc
 
 https://bjnnowak.netlify.app/2021/09/15/r-pca-with-tidyverse/
