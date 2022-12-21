@@ -771,5 +771,14 @@ https://stackoverflow.com/questions/72881872/how-to-label-specific-data-points-o
 
 https://tengkuhanis.netlify.app/post/explore-data-using-pca/
 
+https://pipedreams.rbind.io/post/2018-03-28-pca-plots/ [pca RNAseq]
+
 # Biobroom
 https://bioconductor.org/packages/release/bioc/vignettes/biobroom/inst/doc/biobroom_vignette.html
+
+# Limma
+https://github.com/SimonLab-RU/limma/blob/master/limma.Rmd
+
+https://rpubs.com/jrgonzalezISGlobal/transcriptomic_analyses
+
+https://github.com/microbiome/tutorials/blob/master/limma.Rmd
