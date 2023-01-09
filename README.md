@@ -789,8 +789,9 @@ https://montilab.github.io/BS831/articles/docs/Diffanalysis.html
 
 
 
-#Purrr
+# Purrr
 https://data-se.netlify.app/2021/02/06/plotting-multiple-plots-using-purrr-map-and-ggplot/
+https://www.rebeccabarter.com/blog/2019-08-19_purrr/
 
 # Data carpentery for biologists
 https://datacarpentry.org/semester-biology/nav/course-materials/
