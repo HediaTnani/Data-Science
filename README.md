@@ -784,3 +784,13 @@ https://github.com/SimonLab-RU/limma/blob/master/limma.Rmd
 https://rpubs.com/jrgonzalezISGlobal/transcriptomic_analyses
 
 https://github.com/microbiome/tutorials/blob/master/limma.Rmd
+
+https://montilab.github.io/BS831/articles/docs/Diffanalysis.html
+
+
+
+#Purrr
+https://data-se.netlify.app/2021/02/06/plotting-multiple-plots-using-purrr-map-and-ggplot/
+
+# Data carpentery for biologists
+https://datacarpentry.org/semester-biology/nav/course-materials/
