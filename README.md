@@ -516,6 +516,16 @@ https://bioconductor.org/packages/release/bioc/vignettes/PCAtools/inst/doc/PCAto
 
 https://cran.r-project.org/web/packages/ggfortify/vignettes/plot_pca.html
 
+https://www.tmwr.org/dimensionality.html
+
+https://cmdlinetips.com/2020/06/pca-with-tidymodels-in-r/
+
+https://r4ds.github.io/bookclub-tmwr/principal-component-analysis-pca.html
+
+https://rpubs.com/KarolinaSzczesna/862710
+
+https://juliasilge.com/blog/cocktail-recipes-umap/
+
 ## Shiny
 https://engineering-shiny.org/optimizing-shiny-code.html
 https://www.martinfrigaard.io/post/shiny-namespaces/
@@ -865,6 +875,10 @@ https://cmdlinetips.com/2021/05/functions-to-make-plots-with-ggplot2-in-r/
 
 https://bookdown.org/rdpeng/RProgDA/the-grid-package.html
 
+https://psyteachr.github.io/introdataviz/advanced-plots.html
+
+https://www.r-bloggers.com/2021/07/ggdist-make-a-raincloud-plot-to-visualize-distribution-in-ggplot2/
+
 
 # Tidyverse
 https://www.gertstulp.com/post/different-ways-of-calculating-rowmeans-on-selected-variables-in-a-tidyverse-framework/
@@ -876,6 +890,8 @@ https://cmdlinetips.com/2021/06/row-wise-operations-in-r/
 http://www.sthda.com/english/wiki/ggplot2-box-plot-quick-start-guide-r-software-and-data-visualization
 
 https://static-bcrf.biochem.wisc.edu/courses/Tabular-data-analysis-with-R-and-Tidyverse/book/11-ggplot2chapter.html
+
+https://bookdown.org/ansellbr/WEHI_tidyR_course_book/manipulating-data-with-dplyr.html
 
 # Variant analysis
 https://www.sib.swiss/training/website/course/20230220_NGSGV
@@ -897,5 +913,13 @@ https://bioconductor.org/packages/release/bioc/vignettes/scater/inst/doc/overvie
 # R lectures
 https://users.phhp.ufl.edu/rlp176/Courses/PHC6089/R_notes/subsetting-data-in-r.html
 
+https://github.com/benjamin-ackerman/R_products_tutorial
+
 # Data science
 http://rafalab.dfci.harvard.edu/dsbook/tidyverse.html#pull
+
+# Manhattan plot
+https://r-graph-gallery.com/101_Manhattan_plot.html
+
+# Quantitative Genetics Tools for Mapping Trait 
+https://www.youtube.com/playlist?list=PLU7oPJnOQW9OeGCCA7fstVdrzQuItHt88
