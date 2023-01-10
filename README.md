@@ -224,7 +224,11 @@ https://stat.ethz.ch/pipermail/bioconductor/2013-October/055283.html
 
 https://costalab.ukaachen.de/open_data/Bioinformatics_Analysis_in_R_2019/BIAR_D3/handout.html#3_rnaseq_normalization
 
+https://sbc.shef.ac.uk/geo_tutorial/tutorial.nb.html
 
+https://ro-che.info/articles/2016-11-28-rna-seq-normalization
+
+https://www.reneshbedre.com/blog/expression_units.html
 
 ## Pipelines in Bioinformatics
 [ISCB Nextflow part one](https://www.youtube.com/watch?v=FNv0b3PeHSw)
@@ -499,8 +503,9 @@ https://byuistats.github.io/M335/parallel_furrr.html
 
 https://bookdown.org/rdpeng/rprogdatascience/parallel-computation.html
 
-## Targets
+## Targets and drake
 https://books.ropensci.org/targets/hpc.html
+https://books.ropensci.org/drake/triggers.html#customization
 
 ## PCA
 https://www.biostars.org/p/479903/
@@ -636,6 +641,8 @@ http://tuxette.clementine.wf/
 
 http://www.nathalievialaneix.eu/teaching/rnaseq.html
 
+http://wikis.babelomics.org/babelomicstutorial/differential_expression
+
 ## conda
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
@@ -717,6 +724,10 @@ https://towardsdatascience.com/rest-apis-on-industrial-plcs-eb17e8c4d51b
 # PCA
 https://medium.com/depurr/a-practical-guide-to-principal-component-analysis-pca-aa9cc5d1f13b
 
+https://www.kaggle.com/code/ryanholbrook/principal-component-analysis
+
+https://www.kaggle.com/code/scratchpad/notebook7201da643c/edit
+
 # Neural network
 https://towardsdatascience.com/how-neural-networks-actually-work-python-implementation-simplified-a1167b4f54fe
 
@@ -789,11 +800,100 @@ https://github.com/microbiome/tutorials/blob/master/limma.Rmd
 
 https://montilab.github.io/BS831/articles/docs/Diffanalysis.html
 
+https://ucdavis-bioinformatics-training.github.io/2018-June-RNA-Seq-Workshop/thursday/DE.html
+
+http://rstudio-pubs-static.s3.amazonaws.com/13450_cca08b93a0d94bc2b45c9ed94e230d02.html
+
+http://wikis.babelomics.org/babelomicstutorial/differential_expression
+
+https://gist.github.com/HediaTnani/9e0014ed26eb87b34706d979d48dc2c9
+
+https://github.com/LieberInstitute/brainseq_phase2/blob/master/development/limma_dev.R
 
 
 # Purrr
 https://data-se.netlify.app/2021/02/06/plotting-multiple-plots-using-purrr-map-and-ggplot/
+
 https://www.rebeccabarter.com/blog/2019-08-19_purrr/
+
+https://byuistats.github.io/M335/parallel_furrr.html
+
+https://data-se.netlify.app/2021/02/06/plotting-multiple-plots-using-purrr-map-and-ggplot/
+
+https://rpubs.com/christianthieme/589762
+
 
 # Data carpentery for biologists
 https://datacarpentry.org/semester-biology/nav/course-materials/
+
+# Linear Models
+https://jhudatascience.org/tidyversecourse/model.html#linear-modeling
+
+https://moderndive.com/5-regression.html
+
+# Tidyverse basics
+https://www.dataquest.io/blog/load-clean-data-r-tidyverse/
+
+# Tidysummarizedexperiments
+https://stemangiola.github.io/tidySummarizedExperiment/
+
+https://www.bioconductor.org/packages/release/bioc/vignettes/tidySummarizedExperiment/inst/doc/introduction.html
+
+# R and Github
+https://carpentries.github.io/sandpaper-docs/github-pat.html
+
+# Tidymodels
+https://hansjoerg.me/2020/02/09/tidymodels-for-machine-learning/
+
+# PCA
+https://afit-r.github.io/pca
+
+# ggfortify
+http://www.sthda.com/english/wiki/ggfortify-extension-to-ggplot2-to-handle-some-popular-packages-r-software-and-data-visualization
+
+# Tidy population genetics
+https://github.com/jfy133/Tidy_PopGen_PCA_Plotting/blob/master/Tidy_PopGen_PCA_Plotting.Rmd
+
+# Ggplot2
+https://rud.is/b/2015/09/08/roll-your-own-stats-and-geoms-in-ggplot2-part-1-splines/
+
+https://jtr13.github.io/EDAVold/box.html
+
+https://cmdlinetips.com/2021/05/functions-to-make-plots-with-ggplot2-in-r/
+
+https://bookdown.org/rdpeng/RProgDA/the-grid-package.html
+
+
+# Tidyverse
+https://www.gertstulp.com/post/different-ways-of-calculating-rowmeans-on-selected-variables-in-a-tidyverse-framework/
+
+https://jmgirard.com/rowwise-means/
+
+https://cmdlinetips.com/2021/06/row-wise-operations-in-r/
+
+http://www.sthda.com/english/wiki/ggplot2-box-plot-quick-start-guide-r-software-and-data-visualization
+
+https://static-bcrf.biochem.wisc.edu/courses/Tabular-data-analysis-with-R-and-Tidyverse/book/11-ggplot2chapter.html
+
+# Variant analysis
+https://www.sib.swiss/training/website/course/20230220_NGSGV
+
+# SummarizedExperiment
+https://bioconductor.org/help/course-materials/2019/BSS2019/04_Practical_CoreApproachesInBioconductor.html
+
+# VolcanoPlot
+https://biocorecrg.github.io/CRG_RIntroduction/volcano-plots.html
+
+# Microbiome
+https://microbiome.github.io/OMA/function-ref.html#reduced-dimension-pca-t-sne-umap-mds-etc
+
+https://microbiome.github.io/course_2021_radboud/study-material.html
+
+# Scater
+https://bioconductor.org/packages/release/bioc/vignettes/scater/inst/doc/overview.html
+
+# R lectures
+https://users.phhp.ufl.edu/rlp176/Courses/PHC6089/R_notes/subsetting-data-in-r.html
+
+# Data science
+http://rafalab.dfci.harvard.edu/dsbook/tidyverse.html#pull
