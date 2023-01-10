@@ -738,6 +738,8 @@ https://www.kaggle.com/code/ryanholbrook/principal-component-analysis
 
 https://www.kaggle.com/code/scratchpad/notebook7201da643c/edit
 
+https://juliasilge.com/blog/cocktail-recipes-umap/
+
 # Neural network
 https://towardsdatascience.com/how-neural-networks-actually-work-python-implementation-simplified-a1167b4f54fe
 
@@ -795,6 +797,8 @@ https://stackoverflow.com/questions/72881872/how-to-label-specific-data-points-o
 https://tengkuhanis.netlify.app/post/explore-data-using-pca/
 
 https://pipedreams.rbind.io/post/2018-03-28-pca-plots/ [pca RNAseq]
+
+https://juliasilge.com/blog/cocktail-recipes-umap/
 
 # Biobroom
 https://bioconductor.org/packages/release/bioc/vignettes/biobroom/inst/doc/biobroom_vignette.html
