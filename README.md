@@ -927,3 +927,6 @@ https://r-graph-gallery.com/101_Manhattan_plot.html
 
 # Quantitative Genetics Tools for Mapping Trait 
 https://www.youtube.com/playlist?list=PLU7oPJnOQW9OeGCCA7fstVdrzQuItHt88
+
+# Tidy GeneCoEx
+https://github.com/cxli233/SimpleTidy_GeneCoEx
