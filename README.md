@@ -230,6 +230,12 @@ https://ro-che.info/articles/2016-11-28-rna-seq-normalization
 
 https://www.reneshbedre.com/blog/expression_units.html
 
+https://avikarn.com/2020-07-02-RNAseq_DeSeq2/
+
+https://lcolladotor.github.io/rnaseq_LCG-UNAM_2022/index.html
+
+https://diytranscriptomics.com
+
 ## Pipelines in Bioinformatics
 [ISCB Nextflow part one](https://www.youtube.com/watch?v=FNv0b3PeHSw)
 
