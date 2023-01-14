@@ -659,6 +659,8 @@ http://www.nathalievialaneix.eu/teaching/rnaseq.html
 
 http://wikis.babelomics.org/babelomicstutorial/differential_expression
 
+https://rstudio-pubs-static.s3.amazonaws.com/610827_8e5265a346d9428a85b9dd77a51cbf35.html
+
 ## conda
 https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
 
@@ -936,3 +938,6 @@ https://www.youtube.com/playlist?list=PLU7oPJnOQW9OeGCCA7fstVdrzQuItHt88
 
 # Tidy GeneCoEx
 https://github.com/cxli233/SimpleTidy_GeneCoEx
+
+# Useful tidyverse for bioinformatics
+https://divingintogeneticsandgenomics.rbind.io/post/transpose-single-cell-cell-x-gene-dataframe-to-gene-x-cell/?s=03
