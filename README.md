@@ -958,7 +958,11 @@ https://stuartlab.org/signac/articles/data_structures.html
 # Circos
 https://github.com/bydata/30DayChartChallenge/tree/main/2023/17
 
+https://github.com/camartinezbu/tidytuesday/tree/main/2022/2022-week48
+
 https://github.com/tashapiro/TidyTuesday/blob/master/2022/W10/erasmus-mobility.R
+
+https://github.com/mattflor/chorddiag
 
 # Research Software Engineering with Python
 https://merely-useful.tech/py-rse/
@@ -970,6 +974,9 @@ https://divingintogeneticsandgenomics.rbind.io/project/snakemake-pipelines/
 
 # Neuromatch Academy
 https://compneuro.neuromatch.io/tutorials/intro.html
+
+
+# Heatmaps
 
 # keras
 https://colab.research.google.com/drive/17xCHsK1eiOk8YmIzoYW0fIC07ZNuRw1e?usp=sharing#scrollTo=b84RJ2BZEcYM
@@ -1007,5 +1014,16 @@ https://bookdown.org/ndphillips/YaRrr/
 # Shiny for python
 https://cmparlettpelleriti.github.io/ShinyForPython.html
 
+https://shiny.rstudio.com/py/docs/r-quickstart.html
+
 # Purrr
 https://www.youtube.com/watch?v=EGAs7zuRutY
+
+# R tutorials
+https://github.com/tongakuot/r_tutorials
+
+# Transformers
+https://www.youtube.com/@ChelseaPelleriti
+
+# Database R
+https://rpubs.com/LoanRobinson/1030166
