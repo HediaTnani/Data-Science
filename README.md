@@ -985,6 +985,20 @@ https://colab.research.google.com/drive/17xCHsK1eiOk8YmIzoYW0fIC07ZNuRw1e?usp=sh
 
 https://colab.research.google.com/drive/17xCHsK1eiOk8YmIzoYW0fIC07ZNuRw1e?usp=sharing#scrollTo=D7eQNJwHOiI9
 
+https://statslab.eighty20.co.za/posts/autoencoders_keras_r/
+
+https://nbisweden.github.io/workshop-neural-nets-and-deep-learning/session_rAutoencoders/lecture_autoencoders_r/lecture_autoencoders.html#1
+
+https://tensorflow.rstudio.com/guides/keras/sequential_model
+
+https://www.datatechnotes.com/2020/02/how-to-build-simple-autoencoder-with-keras-in-r.html
+
+https://blog.keras.io/building-autoencoders-in-keras.html
+
+https://blogs.rstudio.com/ai/posts/2018-01-24-keras-fraud-autoencoder/
+
+https://www.youtube.com/watch?v=uBISMeExoqk
+
 # linear regression
 https://analisisydecision.es/estadistica-data-scientist/regresion-lineal.html
 
@@ -1029,3 +1043,5 @@ https://www.youtube.com/@ChelseaPelleriti
 
 # Database R
 https://rpubs.com/LoanRobinson/1030166
+
+
