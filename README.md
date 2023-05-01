@@ -1044,4 +1044,5 @@ https://www.youtube.com/@ChelseaPelleriti
 # Database R
 https://rpubs.com/LoanRobinson/1030166
 
-
+# Tidymodels
+https://www.spsanderson.com/steveondata/posts/rtip-2023-05-01/
