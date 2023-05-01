@@ -947,3 +947,38 @@ https://rpubs.com/pranali018/enrichmentAnalysis
 
 # Custom geom ggplot2
 https://bookdown.dongzhuoer.com/hadley/ggplot2-book/new-geoms.html
+
+# Multiomics
+https://stuartlab.org/signac/articles/pbmc_multiomic.html
+
+# Circos
+https://github.com/bydata/30DayChartChallenge/tree/main/2023/17 
+
+# Research Software Engineering with Python
+https://merely-useful.tech/py-rse/
+
+# snakemake
+http://ivory.idyll.org/blog/2023-snakemake-slithering-input-outputs.html
+
+# keras
+https://colab.research.google.com/drive/17xCHsK1eiOk8YmIzoYW0fIC07ZNuRw1e?usp=sharing#scrollTo=b84RJ2BZEcYM
+https://colab.research.google.com/drive/17xCHsK1eiOk8YmIzoYW0fIC07ZNuRw1e?usp=sharing#scrollTo=D7eQNJwHOiI9
+
+# DEGreport
+https://github.com/lpantano/DEGreport/tree/613011864c33d015a857528bda874b25c1cd094f
+https://bioconductor.org/packages/release/bioc/vignettes/DEGreport/inst/doc/DEGreport.html
+
+# R in Google Colab
+https://towardsdatascience.com/how-to-use-r-in-google-colab-b6e02d736497
+https://medium.com/grabngoinfo/how-to-use-r-with-google-colab-notebook-610c3a2f0eab#:~:text=To%20change%20the%20Colab%20notebook's,get%20the%20result%20of%205.
+
+#principal component regression in R
+https://www.statology.org/principal-components-regression-in-r/
+Performing Principal Components Regression (PCR) in R
+https://rpubs.com/aaronsc32/principal-component-analysis
+
+# from heatmap to complexheatmap
+https://jokergoo.github.io/2020/05/06/translate-from-pheatmap-to-complexheatmap/
+
+# The pirate's guide to R
+https://bookdown.org/ndphillips/YaRrr/
