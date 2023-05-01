@@ -950,6 +950,7 @@ https://bookdown.dongzhuoer.com/hadley/ggplot2-book/new-geoms.html
 
 # Multiomics
 https://stuartlab.org/signac/articles/pbmc_multiomic.html
+https://github.com/matthieudossantos/Single-nuclei-RNAseq-and-single-nuclei-ATACseq-script-for-Seurat/blob/master/Script_single_nuclei_ATACseq.r
 
 # Circos
 https://github.com/bydata/30DayChartChallenge/tree/main/2023/17
