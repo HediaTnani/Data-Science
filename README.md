@@ -1046,3 +1046,6 @@ https://rpubs.com/LoanRobinson/1030166
 
 # Tidymodels
 https://www.spsanderson.com/steveondata/posts/rtip-2023-05-01/
+
+# Tidytools
+https://www.tidyverse.org/blog/2023/04/performant-packages/
