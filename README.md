@@ -998,3 +998,9 @@ https://jokergoo.github.io/2020/05/06/translate-from-pheatmap-to-complexheatmap/
 
 # The pirate's guide to R
 https://bookdown.org/ndphillips/YaRrr/
+
+# Shiny for python
+https://cmparlettpelleriti.github.io/ShinyForPython.html
+
+# Purrr
+https://www.youtube.com/watch?v=EGAs7zuRutY
