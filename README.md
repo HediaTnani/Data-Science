@@ -952,7 +952,8 @@ https://bookdown.dongzhuoer.com/hadley/ggplot2-book/new-geoms.html
 https://stuartlab.org/signac/articles/pbmc_multiomic.html
 
 # Circos
-https://github.com/bydata/30DayChartChallenge/tree/main/2023/17 
+https://github.com/bydata/30DayChartChallenge/tree/main/2023/17
+https://github.com/tashapiro/TidyTuesday/blob/master/2022/W10/erasmus-mobility.R
 
 # Research Software Engineering with Python
 https://merely-useful.tech/py-rse/
@@ -960,10 +961,21 @@ https://merely-useful.tech/py-rse/
 # snakemake
 http://ivory.idyll.org/blog/2023-snakemake-slithering-input-outputs.html
 
+https://divingintogeneticsandgenomics.rbind.io/project/snakemake-pipelines/
+
+# Neuromatch Academy
+https://compneuro.neuromatch.io/tutorials/intro.html
+
 # keras
 https://colab.research.google.com/drive/17xCHsK1eiOk8YmIzoYW0fIC07ZNuRw1e?usp=sharing#scrollTo=b84RJ2BZEcYM
 
 https://colab.research.google.com/drive/17xCHsK1eiOk8YmIzoYW0fIC07ZNuRw1e?usp=sharing#scrollTo=D7eQNJwHOiI9
+
+# linear regression
+https://analisisydecision.es/estadistica-data-scientist/regresion-lineal.html
+
+# Hands-on visualization
+https://github.com/bcfgothenburg/Hands-on
 
 # DEGreport
 https://github.com/lpantano/DEGreport/tree/613011864c33d015a857528bda874b25c1cd094f
