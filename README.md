@@ -970,6 +970,8 @@ https://merely-useful.tech/py-rse/
 # snakemake
 http://ivory.idyll.org/blog/2023-snakemake-slithering-input-outputs.html
 
+https://github.com/epigen/scrnaseq_processing_seurat
+
 https://divingintogeneticsandgenomics.rbind.io/project/snakemake-pipelines/
 
 # Neuromatch Academy
